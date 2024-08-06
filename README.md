@@ -1,6 +1,8 @@
 # TokenWalletTask
 _**Secure token wallet on the ICP blockchain using Rust**__
 
+Use command dfx deploy to set up the project
+
 Setup Instructions for ICP Token Wallet
 
 **Table of Contents**
